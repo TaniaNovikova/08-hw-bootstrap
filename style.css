@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+
+}
+
+.red {
+    background-color: red;
+    font-size: 5em;
+    text-align: center;
+    color: whitesmoke;
+    width: 100%;
+    height: 100%;
+}
+
+.orange {
+    background-color: orange;
+    font-size: 5em;
+    text-align: center;
+    color: whitesmoke;
+    width: 100%;
+    height: 100%;
+
+}
+
+.yellow {
+    background-color: yellow;
+    font-size: 5em;
+    text-align: center;
+    color: whitesmoke;
+    width: 100%;
+    height: 100%;
+}
+
+.green {
+    background-color: green;
+    font-size: 5em;
+    text-align: center;
+    color: whitesmoke;
+    width: 100%;
+    height: 100%;
+}
+
+.blue {
+    background-color: blue;
+    font-size: 5em;
+    text-align: center;
+    color: whitesmoke;
+    width: 100%;
+    height: 100%;
+
+}
