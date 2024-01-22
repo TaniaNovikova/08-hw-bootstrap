@@ -3,7 +3,6 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
-
 }
 
 
@@ -51,5 +50,7 @@ body {
     white-space: 0;
 
 }
-
+.figure.container.xl{
+    width: 240px;
+}
 
